@@ -1,0 +1,27 @@
+td {
+    border: 2px solid black;
+    width: 100px;
+    height: 100px;
+}
+
+.www {
+    border: none;
+    width: 10px;
+    height: 10px;
+    text-align: center;
+}
+table {
+    border-spacing:0 ;
+}
+.rotate {
+    rotate: 180deg; 
+}
+.last {
+    border: none;
+    width: 10px;
+    height: 10px;
+    text-align: center; 
+}
+.last {
+    rotate: 180deg; 
+}
